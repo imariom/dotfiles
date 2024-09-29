@@ -24,3 +24,5 @@ git clone https://github.com/imariom/wallpapers
 git clone https://github.com/imariom/dotfiles
 
 ----------------------------------------------------------------------------------------
+
+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
