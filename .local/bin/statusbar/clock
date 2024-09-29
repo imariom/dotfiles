@@ -1,4 +1,4 @@
 #!/bin/sh
 
-date="$(date +"%A, %B %d - %H:%M")"
+date="$(date '+%a, %b %d - %H:%M')"
 echo -e "  $date"
