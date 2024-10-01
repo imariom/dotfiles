@@ -1,5 +1,8 @@
 # $HOME/.config/alacritty/alacritty.toml
 # by Mário Moiane 2024-09-30
+import = [
+    "~/.config/alacritty/themes/themes/tokyo-night-storm.toml"
+]
 
 [window]
 
